@@ -1,4 +1,5 @@
-## General
+## Node specific changes
+node_modules
 
 # Git
 **.orig
